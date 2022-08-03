@@ -1,5 +1,3 @@
-# MediaFiles
-binary media files that are not so git friendly
-
-
-adding a new version of readme.  test 
+# notes
+This is where you should put Master.bank and Master.strings.Bank files
+https://drive.google.com/drive/folders/11FRyAwHwXHiRTg9-XNXuQRKOk0b1Wdiu
